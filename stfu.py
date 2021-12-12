@@ -1,4 +1,4 @@
-stfuPeople = [587659961320865793] # Put your user id here.
+stfuPeople = [] # Put your user id here.
 stfuMessages = ["taci", "taci in mortii mei de caine"] # You can change these to what ever u want.
 
 
