@@ -16,6 +16,19 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
    > - Edit reply in the second line.
    
 <br />
+
+# 👻 "primordialdev.py"/"uploadsystems.py" Scripts
+
+## - Information / FAQ
+   > - These scripts are for troll , they generate random codes and say that they are "invite codes" for primordial.dev / upload.systems but they don't work.
+   > - Embed Mode needs to be on
+   > - Embed Message
+   > - Command Name; primordialdev.py: [p]generateinviteprimordial
+   > - Command Name; uploadsystems.py: [p]generateinviteupload
+
+
+<br />
+
   
 
   
