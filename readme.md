@@ -7,6 +7,13 @@ Feel free to use any of the code found in this project for your own project.
 
 This is a repo with scripts that u can use for Ghost SelfBot ( aka custom commands ) to activate them , put them in the ./scripts folder!
 Simple as that! There are 2 examples in the folder if u want to make your own script. Thanks!
+
+# 👻 "stfu.py" Script
+
+## - Information / FAQ
+   > - Replies to the user message ( using reply not sends normal message. )
+   > - Put the user(s) id in the first line , if there are more then one put ```[id,id]```
+   > - Edit reply in the second line.
    
 <br />
   
