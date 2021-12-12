@@ -19,7 +19,7 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
   
 
   
-> ### Useful Links  
+> # Useful Links  
 > - Support Discord : https://discord.gg/qgbXvhDABY
 > - Get your Discord token : https://youtu.be/YEgFvgg7ZPI  
 > - GhostSelfBot : https://github.com/5mf/GhostSelfBot/
