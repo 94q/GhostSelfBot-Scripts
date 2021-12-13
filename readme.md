@@ -34,7 +34,15 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
 ## - Information / FAQ
    > - sends a floppa picture.
 
-  
+<br />
+
+# 👻 "floppa.py" Script
+
+## - Information / FAQ
+   > - [p]proxyscrape >> help command
+   > - very fast 
+   > - diffrent type of proxies ( http, https, socks4 and socks5 )
+
 <br />
   
 > # Useful Links  
