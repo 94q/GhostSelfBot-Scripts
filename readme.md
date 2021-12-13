@@ -44,6 +44,12 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
    > - diffrent type of proxies ( http, https, socks4 and socks5 )
 
 <br />
+
+# 👻 "discordroulette.py" Script
+
+## - Information / FAQ
+   > - [p]discordroulette
+   > - after you type the command , if ur unlucky it will send your token on the chat, if u are lucky it wont.
   
 > # Useful Links  
 > - Support Discord : https://discord.gg/qgbXvhDABY
