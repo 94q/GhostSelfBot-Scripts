@@ -25,9 +25,14 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
    > - Embed Message
    > - Command Name; primordialdev.py: [p]generateinviteprimordial
    > - Command Name; uploadsystems.py: [p]generateinviteupload
-   > - Command Name; skeetinvite.py: [p]skeetinvite [https://whateveryouwant.com/]
+   > - Command Name; skeetinvite.py: [p]skeetinvite [https://therickroll.com/]
 
 <br />
+
+# 👻 "floppa.py" Script
+
+## - Information / FAQ
+   > - sends a floppa picture.
 
   
 
