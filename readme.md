@@ -35,7 +35,7 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
    > - sends a floppa picture.
 
   
-
+<br />
   
 > # Useful Links  
 > - Support Discord : https://discord.gg/qgbXvhDABY
