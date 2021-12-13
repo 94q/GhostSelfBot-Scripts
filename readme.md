@@ -36,7 +36,7 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
 
 <br />
 
-# 👻 "floppa.py" Script
+# 👻 "proxyscrape.py" Script
 
 ## - Information / FAQ
    > - [p]proxyscrape >> help command
