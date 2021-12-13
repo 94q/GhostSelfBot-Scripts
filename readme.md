@@ -25,7 +25,7 @@ Simple as that! There are 2 examples in the folder if u want to make your own sc
    > - Embed Message
    > - Command Name; primordialdev.py: [p]generateinviteprimordial
    > - Command Name; uploadsystems.py: [p]generateinviteupload
-   > - Command Name; skeetinvite.py: [p]skeetinvite
+   > - Command Name; skeetinvite.py: [p]skeetinvite [random mumbo jumbo]
 
 <br />
 
